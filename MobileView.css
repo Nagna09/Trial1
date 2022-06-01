@@ -1,0 +1,129 @@
+  
+    body{
+        background: url("Pictures/Background/Pink.jpg");
+        margin: 0;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    } 
+    html{
+        height: auto;
+        font-family:old english;
+        font-weight: bold;	
+    }
+    .header a{
+        float: center;
+        text-align: left;
+        color:blueviolet;
+        border-radius: 15px;	
+        border-style: solid;
+        margin-left: 0px;
+        margin-right: 100px;
+        
+    }  
+    .header-right{
+        float: none;
+    }
+    .Viewer{
+        background: url("Pictures/Background/Pink2.jpg");  
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;	
+        
+        margin-bottom: 250px;
+        margin-top: 125px;
+        margin-right: 75px;
+        margin-left: 75px;
+        
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        color: black;
+        text-align: center;
+        font-size: 14px;
+
+        border-radius: 15px;
+    }
+    .button{
+        background-color:black;
+        color: black;
+        padding: 15px 32px;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .IndexPic{
+        background: url("Pictures/Formal Profile.png");  
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 75px;
+        height: 164px;
+        width: 164px;
+        
+    }
+
+    .AboutMePic{
+        background: url("Pictures/oda.png");  
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 75px;
+        height: 164px;
+        width: 164px;
+    
+    }
+        .container{
+        border-radius: 15px;
+        padding: -20px;
+    }
+    input[type=submit] {
+        background: url("Pictures/Background/Pink.jpg");  
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: black;
+        padding-right: 12px;
+        padding-left: 12px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        border: solid;
+        border-radius: 15px;
+        font-weight: bold;	
+    }
+    .footer{
+        text-align: center;
+        padding: 3px;
+        background-color: black;
+        color:black;
+    }
+    p{text-align: center;
+        color:black;
+        font-size:24px;
+        font-family: 'Courier New', Courier, monospace;}
+
+
+
+        summary{text-align: center;
+            color: aliceblue;
+            }
+            details{color: aqua;}
+            
+
+
+
+    .header {
+        overflow: hidden;
+        background-color:maroon;
+        padding: 20px 10px;
+    }
+
+    .ad{
+        float:left;
+        padding-top: 10;
+    }
+
+    details{color: black;}
+    summary{color: black;}

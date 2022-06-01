@@ -1,0 +1,152 @@
+  body{
+    background: url("Pictures/Background/Pink.jpg");
+      margin: 0;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  } 
+  html{
+      font-family:old english;
+      font-weight: bold;
+      height: auto;
+  }	
+  p{
+      text-align: center;
+      font-family: old english;
+      color: white;
+      font-weight: bold;
+      font-size: 12px;
+  }
+  .text{
+      text-align: center;
+      font-size: 40px;
+      font-family: cursive;
+      font-weight: bold;
+      color: black;
+  }
+  
+  h1{
+      text-align: center;
+      font-size: 24px;
+      font-family: old english;
+      font-weight: bold;
+  }
+  .header {
+      overflow: hidden;
+      background-color:maroon;
+      padding: 20px 10px;
+  }
+  .header a{
+      float: center;
+      color: blueviolet;
+      text-align: center;
+      padding: 12px;
+      text-decoration: none;
+      font-size: 18px; 
+      line-height: 25px;
+      border-radius: 4px;
+  }
+  .header a:hover {
+      background-color:wheat;
+      color: white;
+  }
+  .header a.active {
+      background-color:blueviolet;
+      color:white;
+      border-radius: 15px;
+  }
+  .header-right {
+      float: right;
+  }
+  .button{
+      background-color: #f36440;
+      color:blue;
+      padding: 15px 32px;
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+  }
+  .IndexPic{
+    background: url("Pictures/Formal Profile.png");  
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 75px;
+    height: 164px;
+    width: 164px;
+  }
+  .AboutMePic{
+    background: url("Pictures/oda.png");  
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 75px;
+    height: 164px;
+    width: 164px;
+
+}
+  .container{
+      border-radius: 15px;
+      padding: -20px;
+  }
+  input[type=submit] {
+      background: url("Pictures/Background/Pink.jpg");  
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: black;
+      padding-right: 12px;
+      padding-left: 12px;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      border: solid;
+      border-radius: 15px;
+      font-weight: bold;	
+  }
+  .footer{
+      text-align: center;
+      padding: 3px;
+      background-color: hsl(357, 87%, 44%);
+      color: white;
+  }
+      
+  .Viewer{
+      background: url("Pictures/Background/Pink2.jpg");  
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;	
+      margin-bottom: 25px;
+      margin-top: 125px;
+      margin-right: 150px;
+      margin-left: 150px;	
+      padding-top: 25px;
+      padding-bottom: 25px;
+      padding-left: 10px;
+      padding-right: 10px;
+      color: black;
+      text-align: center;
+      font-size: 14px;
+
+      border-radius: 15px;
+  }
+  
+ 
+p{text-align: center;
+    color:black;
+    font-size:24px;
+    font-family: 'Courier New', Courier, monospace;}
+
+    summary{text-align: center;
+        color: aliceblue;
+        }
+        details{color: aqua;}
+        
+
+
+        .ad{
+            float:left;
+            padding-top: 10;
+        }
+
+        details{color: black;}
+        summary{color: black;}
